@@ -1,9 +1,6 @@
 # TurkeySMS C# SDK (Official) 🔷
 
-[![NuGet Version](https://img.shields.io/nuget/v/TurkeySms.svg)](https://www.nuget.org/packages/TurkeySms/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Official C# SDK for the **TurkeySMS API V4**. High-performance, asynchronous client for .NET applications.
+Official **Enterprise TurkeySMS C# .NET Library** — Thread-safe, asynchronous API V4 client designed for high-scale .NET Core and Enterprise applications.
 
 ## 🛠 Installation
 
